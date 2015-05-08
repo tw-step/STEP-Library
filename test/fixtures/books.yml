@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  isbn: MyString
+  copy_id: 1
+  availability_status: false
+
+two:
+  isbn: MyString
+  copy_id: 1
+  availability_status: false
